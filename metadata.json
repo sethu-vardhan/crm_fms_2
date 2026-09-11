@@ -1,0 +1,6 @@
+{
+  "name": "Sethu Works CRM & FSM",
+  "description": "Role-based CRM and Field Service Management app for industrial steel plant contractors with RBAC, field ops, attendance, progress tracking, and financial controls.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
